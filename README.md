@@ -1,2 +1,3 @@
 Mini projects
-http://vincentgamemaker.sachde.xyz/Mini-projects/
+
+https://vinzhu07.github.io/Mini-projects/
